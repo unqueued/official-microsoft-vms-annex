@@ -1,0 +1,21 @@
+#!/usr/bin/env zsh
+datadir=${XDG_DATA_HOME:-$HOME/.local/share}/windows
+mkdir -m 0700 -p $datadir
+git -C $datadir init
+logfile=$datadir/windows-vms
+exec >>$logfile
+date=$(date)
+echo
+echo "# $date"
+curl -sSL https://developer.microsoft.com/en-us/microsoft-edge/api/tools/vms/ | \
+    jq -r '.softwareList[].vms[].files[] | if has("md5") then .url + " " + .md5 else empty end' | \
+    while read -r url md5url; do
+        if ! grep -q $url $logfile; then
+            echo $url >&2
+            md5=$(curl -sSL $md5url)
+            echo $url $md5
+        fi
+    done
+exec >&-
+git -C $datadir add --all
+git -C $datadir commit --no-verify --no-gpg-sign --message=$date

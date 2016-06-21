@@ -1,0 +1,42 @@
+# Each uncommented line consists of a VM image URL and its MD5 checksum.
+
+# Tue Jun 21 15:55:10 CST 2016
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE8/Windows/IE8.Win7.For.Windows.VirtualBox.zip 86D481F517CA18D50F298FC9FB1C5A18
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE9/Windows/IE9.Win7.For.Windows.VirtualBox.zip 61A2B69A5712ABD6566FCBD1F44F7A2B
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE10/Windows/IE10.Win7.For.Windows.VirtualBox.zip 755F05AF1507CD8940354BF564A08D50
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE11/Windows/IE11.Win7.For.Windows.VirtualBox.zip 7AA66EC15A51EE8B0A4AB39353472F07
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE11/Windows/IE11.Win8.1.For.Windows.VirtualBox.zip 080C652C69359B6742DE547BA594AB2A
+https://az792536.vo.msecnd.net/vms/VMBuild_20160322/VirtualBox/MSEdge/MSEdge.Win10TH2.VirtualBox.zip 4002CA8238181312A1F4DAB04632A2C1
+https://az792536.vo.msecnd.net/vms/VMBuild_20160614/VirtualBox/MSEdge/MSEdge.Win10_preview.VirtualBox.zip 9FF9F7B87A6F9DD90811179D482B55CD
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE8/IE8.Win7.Vagrant.zip 9C6FD479FF2ACFA5076EB94A36F10BC9
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE9/IE9.Win7.Vagrant.zip 7DD96C772C03D63BAFE4364A08F13D22
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE10/IE10.Win7.Vagrant.zip 1D339B26AFE105815DFEC31AE48AA88A
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE11/IE11.Win7.Vagrant.zip F658014BBBEEB1A9D0C1068597E4EBD7
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE11/IE11.Win81.Vagrant.zip 40365709CF030C9ABCA51CCAE4BCBEED
+https://az792536.vo.msecnd.net/vms/VMBuild_20160322/Vagrant/MSEdge/MSEdge.Win10TH2.Vagrant.zip 67DDA8AD0E25BCC03D6EDA52F381B6A6
+https://az792536.vo.msecnd.net/vms/VMBuild_20160614/Vagrant/MSEdge/MSEdge.Win10_preview.Vagrant.zip 76CDB2BAD9582D23C1F6F4D868218D6C
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/HyperV_2012/IE8/Windows/IE8.Win7.For.Windows.HyperV_2012.zip 97AD27B6E99511FA3035D8FCD63FBF93
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/HyperV_2012/IE9/Windows/IE9.Win7.For.Windows.HyperV_2012.zip B30DE6D2DF3FB5F21F6CFE67C06649FF
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/HyperV_2012/IE10/Windows/IE10.Win7.For.Windows.HyperV_2012.zip 1B7F3BAAD02202482D386016963711FD
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/HyperV_2012/IE11/Windows/IE11.Win7.For.Windows.HyperV_2012.zip D45F2DEBDC869927CCC86027AF8734A8
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/HyperV_2012/IE11/Windows/IE11.Win8.1.For.Windows.HyperV_2012.zip 23305AA7966D6D4C651C1B5218E88827
+https://az792536.vo.msecnd.net/vms/VMBuild_20160322/HyperV/MSEdge/MSEdge.Win10TH2.HyperV.zip 9183CA970F004478294FEEE8B6AD94C3
+https://az792536.vo.msecnd.net/vms/VMBuild_20160614/HyperV/MSEdge/MSEdge.Win10_preview.HyperV.zip 8051CC8269882D2E68322D267F33AFB1
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE8/Windows/IE8.Win7.For.Windows.VPC.zip F13E0CB4B3AB262BE1975788266B9E66
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE9/Windows/IE9.Win7.For.Windows.VPC.zip 413605C495948D66F24C885BD97BF0AE
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE10/Windows/IE10.Win7.For.Windows.VPC.zip C854DE28C711B7A124E38F8B5086E623
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VPC/IE11/Windows/IE11.Win7.For.Windows.VPC.zip 195C40CE772C640584542C9068D143EC
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE8/Windows/IE8.Win7.For.Windows.VMware.zip 8CB9A979042E6D2D3B58BB6E934E165A
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE9/Windows/IE9.Win7.For.Windows.VMware.zip 13A077A1A6245B33FE38B76E419CACC8
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE10/Windows/IE10.Win7.For.Windows.VMware.zip 321C159BC900C02D0F8AC76C20F68628
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE11/Windows/IE11.Win7.For.Windows.VMware.zip 2356999E137C2922161524624FA5BED6
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE11/Windows/IE11.Win8.1.For.Windows.VMware.zip 7D3AFEBCB1AD6E148546835A68284C13
+https://az792536.vo.msecnd.net/vms/VMBuild_20160321/VMware/MSEdge/MSEdge.Win10TH2.VMWare.zip 0486FE5AAA7220ED608F1D8CCCFD823E
+https://az792536.vo.msecnd.net/vms/VMBuild_20160614/VMWare/MSEdge/MSEdge.Win10_preview.VMWare.zip 94A8FE87F523D2A0A041EC6D18500865
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE8/Mac/IE8.Win7.For.Mac.Parallels.zip 0807D5D75AD57B7669C4F415C01961CB
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE9/Mac/IE9.Win7.For.Mac.Parallels.zip AE3091E3E94277958CD5728CB7E70AB7
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE10/Mac/IE10.Win7.For.Mac.Parallels.zip 6456B984D2491EE63C8B3D0EC5A40FE0
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE11/Mac/IE11.Win7.For.Mac.Parallels.zip 85A87E162BF00CDD9660139535D0EB87
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE11/Mac/IE11.Win8.1.For.Mac.Parallels.zip E75D2ED039E422F7DDDFAF720568BB14
+https://az792536.vo.msecnd.net/vms/VMBuild_20160322/Parallels/MSEdge/MSEdge.Win10TH2.Parallels.zip E4CCBA8C6A2FB9E2D227084464E72C19
+https://az792536.vo.msecnd.net/vms/VMBuild_20160609/Parallels/MSEdge/MSEdge.Win10_preview.Parallels.zip 43CF5D12D3E6BA770C0FF464A6218F21
