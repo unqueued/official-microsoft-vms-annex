@@ -1,1 +1,1 @@
-https://developer.microsoft.com/en-us/microsoft-edge/api/tools/vms/
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
