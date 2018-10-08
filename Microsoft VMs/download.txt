@@ -1,0 +1,4 @@
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VirtualBox/IE9/Windows/IE9.Win7.For.Windows.VirtualBox.zip
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/Parallels/IE8/Mac/IE8.Win7.For.Mac.Parallels.zip
+https://az412801.vo.msecnd.net/vhd/VMBuild_20141027/VMware/IE8/Windows/IE8.Win7.For.Windows.VMware.zip
+https://az792536.vo.msecnd.net/vms/VMBuild_20150916/Vagrant/IE9/IE9.Win7.Vagrant.zip
